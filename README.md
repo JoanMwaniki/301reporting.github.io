@@ -1,6 +1,3 @@
-# 301reporting.github.io
-COS301 phase 3: group ocean reporting
-
 
 ![up logo](https://www.up.ac.za/media/shared/Legacy/UserFiles/up-logo-pt-line2.jpg)
 
@@ -23,6 +20,8 @@ COS 301: Software Engineering
 #### [Project Management (Trello)](https://trello.com/b/eOdMixk4/ocean-reportng)
 
 #### [Project Github](https://github.com/JasonLouw/301reporting.github.io)
+
+#### [FNB Reporting](https://jasonlouw.github.io/301reporting.github.io/)
 
 ## Meet our Team :smiley:
 
@@ -110,7 +109,7 @@ Socialising*
 
 ###### **Attitudes:**
 > *I am a highly motivated and hardworking individual who is currently in in my final year of BSc Computer Science.*
-*
+
 
 `
 `
@@ -240,7 +239,7 @@ Socialising*
 > *I am a final year BSC Computer Science student with C++, C#, Java, JSON, HTML, Visual Basic .Net, PHP, SQL*
 
 ###### **Work Experience:**
-> **
+> *None*
 
 ###### **Attitudes:**
 > *I am a enthusiatstic programmers who finds excitement in learning new things and exploring the fields of computer programming.*
